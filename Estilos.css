@@ -2,3 +2,23 @@ body
 {
   background-color: #206006;
 }
+
+h1, h2, h3, h4
+{
+  font-family: monospace;
+}
+
+#f
+{
+  color: #fff;
+}
+
+#s
+{
+  color: #fff;
+}
+
+#t
+{
+  color: #fff;
+}
